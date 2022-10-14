@@ -2,3 +2,4 @@ digite email
 digite senha
 digite nome
 digite sobrenome
+digit idade
