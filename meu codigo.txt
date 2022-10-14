@@ -1,2 +1,3 @@
 Olá meu nome é Rafael
 Adicionei uma nova linha
+adicionado um branch nova chamada staging
